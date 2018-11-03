@@ -1,4 +1,4 @@
-package com.example.fabrikam.TodoDemo;
+package com.calhacks.project.TodoDemo;
 
 import org.junit.Test;
 import org.junit.Ignore;
