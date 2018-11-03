@@ -5,7 +5,9 @@ public class Topic {
 	private String name;
 	private String description;
 	
-	
+	public Topic () {
+		
+	}
 	public Topic(String id, String name, String description) {
 		super();
 		this.id = id;
