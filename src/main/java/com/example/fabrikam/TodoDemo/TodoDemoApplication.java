@@ -17,8 +17,7 @@ public class TodoDemoApplication extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
         return application.sources(TodoDemoApplication.class);
     }
-
-
+	
 	public static void main(String[] args) {
 		SpringApplication.run(TodoDemoApplication.class, args);
 	}
